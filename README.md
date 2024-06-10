@@ -1,3 +1,3 @@
 Projekt Vier Gewinnt
 
-Jeder erstellt sich bitte einen eigenen Branch von dem Main um die commits+pushes im Überblick zu halten
+Ich habe für jeden einen eigenen Branch erstellt, den man verwenden soll. Änderungen bitte vorerst nur im eigenen Branch durchführen und nach Absprache in den Main pushen.
